@@ -1,0 +1,42 @@
+{
+  "name": "reactshoppingcart",
+  "version": "1.0.0",
+  "description": "Shopping Cart with React",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp serve"
+  },
+  "author": "Nick Kaufmann",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-core": "^6.17.0",
+    "babel-jest": "^16.0.0",
+    "babel-loader": "^6.2.5",
+    "babel-preset-react": "^6.16.0",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.0",
+    "d3": "^4.2.6",
+    "gulp-nodemon": "^2.2.1",
+    "jest-cli": "^16.0.0",
+    "nodemon": "^1.10.2",
+    "react-tools": "^0.13.3",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-stage-0": "^6.16.0",
+    "browserify": "^13.1.0",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "flux": "^3.0.0",
+    "gulp": "^3.9.1",
+    "jest": "^16.0.0",
+    "jest-cli": "^16.0.0",
+    "jquery": "^3.1.1",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
